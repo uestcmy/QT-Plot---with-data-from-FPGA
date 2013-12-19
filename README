@@ -1,3 +1,6 @@
 This is the README file of project which plot 3D figures.
 The data of the figure is unmeaningful, just random.
+The feature of this GUI is active and 3D, it can refresh itself according tothe data and the time parameter.
 
+Created and Edited by Meng Yang at NCL of UESTC.
+2013/12/19
