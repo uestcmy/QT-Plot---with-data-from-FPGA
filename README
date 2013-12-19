@@ -1,6 +1,14 @@
 This is the README file of project which plot 3D figures.
+
 The data of the figure is unmeaningful, just random.
+
 The feature of this GUI is active and 3D, it can refresh itself according tothe data and the time parameter.
+
+Screenshot of this GUI program is Screenshot-1.png.
+
+The dir: linux_driver is the pcie driver of ml-605.
+
+The dir: FPGA_Plot_data is the random data used to plot the figure. 
 
 Created and Edited by Meng Yang at NCL of UESTC.
 2013/12/19
